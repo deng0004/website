@@ -1,0 +1,22 @@
+supabase password: OZb4eyzUH2x766Mn
+
+The use of bash 
+
+// solution
+https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal
+
+// ctrl + shift+ P
+// select default profile
+
+// create react file
+npx create-react-app today-i-learned
+
+// run react code
+npm run start
+npm run build
+
+// install supabase
+npm install @supabase/supabase-js
+
+// build a file in react to upload to server
+npm run build
